@@ -20,7 +20,7 @@ const Projects = () => {
       <div className="xl:w-1/3 md:w-1/2 p-4">
         <a href="https://github.com/mohitsaxenaa/Chrome-ex" >
         <div className="border border-gray-200 p-6 rounded-lg">
-        <img src={Front} loading="lazy" alt="Photo by Austin Wade" class="w-1/2 object-cover object-center transition duration-200 group-hover:scale-110" />
+        <img src={Front} loading="lazy" alt="" class="w-1/2 object-cover object-center transition duration-200 group-hover:scale-110" />
           <h2 className="text-lg text-white font-medium title-font mb-2">CHROME EXTENSION</h2>
           <p className="leading-relaxed text-base">This Is The Chrome Extension I Made By Using Javascript</p>
         </div>
@@ -31,7 +31,7 @@ const Projects = () => {
       <div className="xl:w-1/3 md:w-1/2 p-4">
       <a href="https://mohitsaxenaa.github.io/blackjack.github.io/">
         <div className="border border-gray-200 p-6 rounded-lg">
-        <img src={Blackjack} loading="lazy" alt="Photo by Austin Wade" class="h-full w-full object-cover object-center transition duration-200 group-hover:scale-110" />
+        <img src={Blackjack} loading="lazy" alt="" class="h-full w-full object-cover object-center transition duration-200 group-hover:scale-110" />
           <h2 className="text-lg text-white font-medium title-font mb-2">BLACK JACK GAME</h2>
           <p className="leading-relaxed text-base">This Is The Blackjack Game I Also Made By Using Javascript</p>
         </div>
@@ -42,9 +42,9 @@ const Projects = () => {
       <div className="xl:w-1/3 md:w-1/2 p-4">
       <a href="https://mohitsaxenaa.github.io/passengercounter.github.io/">
         <div className="border border-gray-200 p-6 rounded-lg">
-        <a href="#" className="h-1/2">
-        <img src={Passcount} loading="lazy" alt="Photo by Austin Wade" class="h-full w-full object-cover object-center transition duration-200 group-hover:scale-110" />
-        </a>
+        <div className="h-1/2">
+        <img src={Passcount} loading="lazy" alt="" class="h-full w-full object-cover object-center transition duration-200 group-hover:scale-110" />
+        </div>
           <h2 className="text-lg text-white font-medium title-font mb-2">PASSENGER COUNTER</h2>
           <p className="leading-relaxed text-base">This Helps To Count Passenger.</p>
         </div>
@@ -55,7 +55,7 @@ const Projects = () => {
       <div className="xl:w-1/3 md:w-1/2 p-4">
       <a href="https://mohitsaxenaa.github.io/workingclock.github.io/">
         <div className="border border-gray-200 p-6 rounded-lg"> 
-        <img src={Datentime} loading="lazy" alt="Photo by Austin Wade" class="h-1/2  object-cover object-center transition duration-200 group-hover:scale-110" />
+        <img src={Datentime} loading="lazy" alt="" class="h-1/2  object-cover object-center transition duration-200 group-hover:scale-110" />
           <h2 className="text-lg text-white font-medium title-font mb-2">DATE AND TIME</h2>
           <p className="leading-relaxed text-base">I Made This Using JavasScript realtime date and time</p>
         </div>
@@ -65,14 +65,14 @@ const Projects = () => {
 
       <div className="xl:w-1/3 md:w-1/2 p-4">
         <div className="border border-gray-200 p-6 rounded-lg">
-        <img src={Soon} loading="lazy" alt="Photo by Austin Wade" class="w-1/2 object-cover object-center transition duration-200 group-hover:scale-110" />
+        <img src={Soon} loading="lazy" alt="" class="w-1/2 object-cover object-center transition duration-200 group-hover:scale-110" />
           <h2 className="text-lg text-white font-medium title-font mb-2">SOON UPDATING MORE</h2>
           <p className="leading-relaxed text-base"></p>
         </div>
       </div>
       <div className="xl:w-1/3 md:w-1/2 p-4">
         <div className="border border-gray-200 p-6 rounded-lg">         
-        <img src={Soon} loading="lazy" alt="Photo by Austin Wade" class="w-1/2 object-cover object-center transition duration-200 group-hover:scale-110" />
+        <img src={Soon} loading="lazy" alt="" class="w-1/2 object-cover object-center transition duration-200 group-hover:scale-110" />
           <h2 className="text-lg text-white font-medium title-font mb-2">SOON UPDATING MORE</h2>
           <p className="leading-relaxed text-base"></p>
         </div>

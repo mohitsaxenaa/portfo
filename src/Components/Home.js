@@ -9,7 +9,7 @@ const Home = () => {
     <section className="text-gray-400 bg-violet-950 body-font w-full h-2xl  ">
   <div className=" mx-auto  flex px-16 py-20 flex-col items-center ">
     <div className="lg:flex-grow flex flex-col  items-center text-center">
-      <h1 className="title-font sm:text-4xl text-3xl mb-2 font-medium text-white"/>Welcome to my Portfolio
+      <h1 className="title-font sm:text-4xl text-3xl mb-2 font-medium text-white">Welcome to my Portfolio</h1>
       <h2 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">MOHIT SAXENA
         <br className="hidden lg:inline-block"/>
       </h2>
