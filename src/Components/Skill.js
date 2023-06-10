@@ -6,7 +6,7 @@ import Java from './Images/Java.png';
 
 const Skill = () => {
   return (
-    <div className="bg-violet-950 py-10 sm:py-10 lg:py-16">
+    <div className="bg-black py-10 sm:py-10 lg:py-16">
       <div className="mx-auto max-w-screen-2xl px-4 md:px-8">
         <div className="mb-6 flex items-end justify-between gap-4">
           <h2 className="w-full flex justify-center text-2xl font-bold text-white lg:text-3xl">MY SKILLS</h2>

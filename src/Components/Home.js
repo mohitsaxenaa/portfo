@@ -6,7 +6,7 @@ import Resume from './Assets/Resume.pdf'
 const Home = () => {
   return (
     <>
-    <section className="text-gray-400 bg-violet-950 body-font w-full h-2xl  ">
+    <section className="text-gray-200 bg-black body-font w-full h-2xl  ">
   <div className=" mx-auto  flex px-16 py-20 flex-col items-center ">
     <div className="lg:flex-grow flex flex-col  items-center text-center">
       <h1 className="title-font sm:text-4xl text-3xl mb-2 font-medium text-white">Welcome to my Portfolio</h1>
@@ -21,7 +21,7 @@ Fascinating to be able to create every aspect of a website, from the frontend to
 </p>
       <div className="flex justify-center">
         {/* <button className="inline-flex text-white bg-pink-500 border-0 py-2 px-6 focus:outline-none hover:bg-pink-600 rounded text-lg">DOWNLOAD CV</button> */}
-        <button className="ml-4 inline-flex text-gray-200 bg-blue-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">
+        <button className="ml-4 inline-flex text-gray-200 bg-cyan-600 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">
           <a href={Resume} download="resume">
           DOWNLOAD CV
           </a>

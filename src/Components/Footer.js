@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <div>
       
-<footer className=" dark:bg-violet-900">
+<footer className=" dark:bg-cyan-700">
     <div className="flex justify-center flex-col w-full mx-auto max-w-screen-xl p-4 md:flex md:items-center md:justify-between">
    
     <ul className="flex justify-center  mt-3 text-sm font-medium text-white dark:text-white sm:mt-0">

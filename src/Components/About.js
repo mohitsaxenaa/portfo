@@ -2,7 +2,7 @@ import React from 'react'
 
 const About = () => {
   return (
-    <section className="text-gray-400 bg-violet-950 body-font overflow-hidden">
+    <section className="text-gray-400 bg-black body-font overflow-hidden">
       <h1 className="flex justify-center pt-10 text-5xl underline">MY EDUCATION</h1>
   <div className="flex justify-center px-5 py-24 mx-auto">
     <div className="-my-8 divide-y-2 divide-gray-800 w-full">

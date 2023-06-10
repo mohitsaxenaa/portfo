@@ -17,7 +17,7 @@ const Navbar = () => {
     <nav className="navbar flex sticky top-0 z-50 ">
       {/* <h3 className="logo">Logo</h3> */}
       <ul
-        className={`w-full flex flex-col nav-links justify-between items-center bg-violet-900 p-6 font-black-sans text-2xl text-white ${
+        className={`w-full flex flex-col nav-links justify-between items-center bg-cyan-700 p-6 font-black-sans text-2xl text-white ${
           isMobileOpen ? 'sp:flex sp:justify-between sp:flex-row' : 'hidden sp:flex sp:justify-between sp:flex-row'
         }`}
       >
@@ -43,7 +43,7 @@ const Navbar = () => {
 
       {!isMobileOpen && (
         <button
-          className="mobile-menu-icon bg-violet-900 w-full p-5 flex flex-row-reverse  text-2xl sp:hidden"
+          className="mobile-menu-icon bg-cyan-700 w-full p-5 flex flex-row-reverse  text-2xl sp:hidden"
           onClick={toggleMobileMenu}
         >
           <i className="fas fa-bars"></i>
@@ -52,7 +52,7 @@ const Navbar = () => {
 
       {isMobileOpen && (
         <button
-          className="mobile-menu-icon bg-violet-900  p-5 text-2xl sp:hidden"
+          className="mobile-menu-icon bg-cyan-700  p-5 text-2xl sp:hidden"
           onClick={toggleMobileMenu}
         >
           <i className="fas fa-times"></i>

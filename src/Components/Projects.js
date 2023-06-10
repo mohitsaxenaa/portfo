@@ -8,7 +8,7 @@ import Soon from './Images/giphy.gif'
 const Projects = () => {
   return (
     <div >
-      <section className="text-white body-font bg-violet-950">
+      <section className="text-white body-font bg-black">
   <div className="container px-5 py-32 mx-auto">
     <div className="flex flex-wrap w-full mb-20 flex-col items-center text-center">
       <h1 className="sm:text-3xl text-2xl font-medium title-font mb-2 text-white">My Big and Small projects </h1>
