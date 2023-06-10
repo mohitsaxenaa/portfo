@@ -10,10 +10,9 @@ import Navbar from './Components/Navbar/Navbar';
 import Footer from './Components/Footer';
 import Projects from './Components/Projects';
 
-
-
 function App() {
   return (
+    
     <Router>
       <Navbar/>
       
@@ -30,7 +29,12 @@ function App() {
       <Footer/>
     </Router>
   
+
+  
   );
 }
 
 export default App;
+
+
+

@@ -6,11 +6,6 @@ const About = () => {
       <h1 className="flex justify-center pt-10 text-5xl underline">MY EDUCATION</h1>
   <div className="flex justify-center px-5 py-24 mx-auto">
     <div className="-my-8 divide-y-2 divide-gray-800 w-full">
-
-
-
-
-
       <div className="py-8 flex flex-wrap md:flex-nowrap">
         <div className="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
           <span className="font-semibold title-font text-white">BTECH</span>
