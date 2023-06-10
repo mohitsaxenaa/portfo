@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfo/static/css/main.daa15b07.css",
+    "main.js": "/portfo/static/js/main.37eab01d.js",
+    "static/media/blackjack.png": "/portfo/static/media/blackjack.4fab68110a1ae39d3f26.png",
+    "static/media/passcount.png": "/portfo/static/media/passcount.6b71c211b9d6ec717f3b.png",
+    "static/media/CssFrames.png": "/portfo/static/media/CssFrames.d57b32b242cc18ef2ace.png",
+    "static/media/React.png": "/portfo/static/media/React.a4e03f16f3c0e9cec593.png",
+    "static/media/Resume.pdf": "/portfo/static/media/Resume.2832c9a1c10515f1fd0d.pdf",
+    "static/media/Front.png": "/portfo/static/media/Front.70b860ccba7839ed1a82.png",
+    "static/media/Java.png": "/portfo/static/media/Java.1b0d2ac883eb37f79931.png",
+    "static/media/giphy.gif": "/portfo/static/media/giphy.cb5f5e59cc69e44aa403.gif",
+    "static/media/datentime.png": "/portfo/static/media/datentime.f16fe103f3ecda711c53.png",
+    "static/media/chromeex.jfif": "/portfo/static/media/chromeex.53961578b3016ecc50e5.jfif",
+    "static/media/Logo.png": "/portfo/static/media/Logo.5cbaacfaac15f80e0377.png",
+    "index.html": "/portfo/index.html",
+    "main.daa15b07.css.map": "/portfo/static/css/main.daa15b07.css.map",
+    "main.37eab01d.js.map": "/portfo/static/js/main.37eab01d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.daa15b07.css",
+    "static/js/main.37eab01d.js"
+  ]
+}
