@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfo/static/css/main.daa15b07.css",
-    "main.js": "/portfo/static/js/main.37eab01d.js",
+    "main.js": "/portfo/static/js/main.25bde75c.js",
     "static/media/blackjack.png": "/portfo/static/media/blackjack.4fab68110a1ae39d3f26.png",
     "static/media/passcount.png": "/portfo/static/media/passcount.6b71c211b9d6ec717f3b.png",
     "static/media/CssFrames.png": "/portfo/static/media/CssFrames.d57b32b242cc18ef2ace.png",
@@ -15,10 +15,10 @@
     "static/media/Logo.png": "/portfo/static/media/Logo.5cbaacfaac15f80e0377.png",
     "index.html": "/portfo/index.html",
     "main.daa15b07.css.map": "/portfo/static/css/main.daa15b07.css.map",
-    "main.37eab01d.js.map": "/portfo/static/js/main.37eab01d.js.map"
+    "main.25bde75c.js.map": "/portfo/static/js/main.25bde75c.js.map"
   },
   "entrypoints": [
     "static/css/main.daa15b07.css",
-    "static/js/main.37eab01d.js"
+    "static/js/main.25bde75c.js"
   ]
 }
