@@ -14,7 +14,7 @@ const Home = () => {
         <br className="hidden lg:inline-block"/>
       </h2>
       <img className="w object-cover object-center rounded" alt="hero" src={Profile}/>
-      <p className="m-10 w-full leading-relaxed">I am a third-year student pursuing Computer Science Engineering from Delhi Technical Campus, Greater Noida. I am enthusiastic about connecting with people and constantly learning new things. Recently, I have been focusing on frontend development and am currently acquiring skills in React JS, a popular JavaScript library for building user interfaces.
+      <p className="m-10 w-full leading-relaxed">I am a Fourth-year student pursuing Computer Science Engineering from Delhi Technical Campus, Greater Noida. I am enthusiastic about connecting with people and constantly learning new things. Recently, I have been focusing on frontend development and am currently acquiring skills in React JS, a popular JavaScript library for building user interfaces.
 
 Additionally, I am actively studying Data Structures and Algorithms using JAVA, which is essential knowledge for efficient programming and problem-solving. My goal is to become a full-stack developer, as I find it
 Fascinating to be able to create every aspect of a website, from the frontend to the backend.
